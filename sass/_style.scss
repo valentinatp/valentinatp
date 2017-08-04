@@ -1,0 +1,113 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Oswald', sans-serif;
+}
+
+/*double row*/
+.navbar-default{
+	background-color: black;
+	margin: 0;
+	border: none;
+	.navbar-doublerow > .navbar{
+		display: block;	
+		padding: 0px auto;
+		margin: 0px auto;
+		min-height: 25px;
+		.navbar-doublerow .nav{
+			padding: 0px auto;
+		}
+	}
+}
+/*top nav*/
+.navbar-doublerow .navbar-top ul>li>a {
+	padding: 0 auto;
+	font-size: 12px;
+	&:hover{
+		color: #fff;
+	}
+} 
+/*down nav*/
+.navbar-doublerow .navbar-down .navbar-brand {
+	padding: 0px auto;
+	float: left;
+	color: #fff;
+	font-size: 32px;
+}
+
+.navbar-doublerow .navbar-down ul>li>a{
+	font-size: 16px;
+	color: #fff;
+	transition: border-bottom .2s ease-in , transform .2s ease-in-out;
+	&:hover{
+		border-bottom: 1px solid #fff;
+		color: #fff;
+	}
+}
+
+.navbar-doublerow .navbar-down .dropdown{
+	padding: 5px;
+	color: #fff;
+	.navbar-doublerow .navbar-down .dropdown ul>li>a,
+	.navbar-doublerow .navbar-down .dropdown ul>li>a:hover{
+		color: #fff;
+		border-bottom: none;
+	}
+}
+
+#primera-seccion{
+	background-image: url(../img/fondo.jpg);
+	height: 100vh;
+	width: 100%;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	background-attachment: fixed;
+	div{
+		div{
+			div{
+				div{
+					div{
+						div{
+							margin: 50px 70px;
+							p {
+								height: 50px;
+								float: left;
+								margin-right: 50px;
+								font-size: 30px;
+								color: #fff;
+							}
+							b {
+								float: left;
+								overflow: hidden;
+								position: relative;
+								height: 50px;
+								span{
+									display: inline-block;
+									color: #e74c3c;
+									position: relative;
+									font-size: 50px;
+									white-space: nowrap;
+									top: 0;
+									left: 0;
+									-webkit-animation: move 5s;
+									-webkit-animation-iteration-count: infinite;
+									-webkit-animation-delay: 1s;
+								}
+								@keyframes move {
+									0%  { top: 0px; }
+									20% { top: -50px; }
+									40% { top: -100px; }
+									60% { top: -150px; }
+									80% { top: -200px; }
+								}
+							}	
+						}
+					}
+				}
+			}
+		}
+	}
+}
+

@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css?family=Bangers|Oswald|Sofia");
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Oswald', sans-serif; }
+
+/*double row*/
+.navbar-default {
+  background-color: black;
+  margin: 0;
+  border: none; }
+  .navbar-default .navbar-doublerow > .navbar {
+    display: block;
+    padding: 0px auto;
+    margin: 0px auto;
+    min-height: 25px; }
+    .navbar-default .navbar-doublerow > .navbar .navbar-doublerow .nav {
+      padding: 0px auto; }
+
+/*top nav*/
+.navbar-doublerow .navbar-top ul > li > a {
+  padding: 0 auto;
+  font-size: 12px; }
+  .navbar-doublerow .navbar-top ul > li > a:hover {
+    color: #fff; }
+
+/*down nav*/
+.navbar-doublerow .navbar-down .navbar-brand {
+  padding: 0px auto;
+  float: left;
+  color: #fff;
+  font-size: 32px; }
+
+.navbar-doublerow .navbar-down ul > li > a {
+  font-size: 16px;
+  color: #fff;
+  transition: border-bottom .2s ease-in , transform .2s ease-in-out; }
+  .navbar-doublerow .navbar-down ul > li > a:hover {
+    border-bottom: 1px solid #fff;
+    color: #fff; }
+
+.navbar-doublerow .navbar-down .dropdown {
+  padding: 5px;
+  color: #fff; }
+  .navbar-doublerow .navbar-down .dropdown .navbar-doublerow .navbar-down .dropdown ul > li > a,
+  .navbar-doublerow .navbar-down .dropdown .navbar-doublerow .navbar-down .dropdown ul > li > a:hover {
+    color: #fff;
+    border-bottom: none; }
+
+#primera-seccion {
+  background-image: url(../img/fondo.jpg);
+  height: 100vh;
+  width: 100%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  background-attachment: fixed; }
+  #primera-seccion div div div div div div h1 {
+    margin: 50% 0; }
+
+/*# sourceMappingURL=main.css.map */
