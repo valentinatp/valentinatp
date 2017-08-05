@@ -382,7 +382,7 @@ body{
 
 .quinta-seccion{
 	background-color: $background-tercero;
-	height: 50vh;
+	height: 70vh;
 	width: 100%;
 	div{
 		div{
@@ -394,6 +394,7 @@ body{
 					padding: 10px 0;
 					text-decoration: underline;
 					text-transform: uppercase;
+					margin-bottom: 70px;
 				}
 			}
 		}
@@ -416,6 +417,24 @@ body{
 							}
 						}
 					}
+				}
+			}
+		}
+	}
+}
+
+footer{
+	background-color: $background-segundo;
+	width: 100%;
+	div{
+		div{
+			div{
+				p{
+					color: $color-blanco;
+					padding: 15px;
+					font-size: 15px;
+					font-family: 'Patua One', cursive;
+					text-transform: uppercase;
 				}
 			}
 		}

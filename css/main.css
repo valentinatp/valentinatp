@@ -287,7 +287,7 @@ body {
 
 .quinta-seccion {
   background-color: #39d084;
-  height: 50vh;
+  height: 70vh;
   width: 100%; }
   .quinta-seccion div div div h2 {
     color: #fff;
@@ -295,7 +295,8 @@ body {
     font-size: 50px;
     padding: 10px 0;
     text-decoration: underline;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    margin-bottom: 70px; }
   .quinta-seccion div div div div div a {
     text-decoration: none;
     color: #fff;
@@ -307,5 +308,15 @@ body {
       color: #203748;
       transition: 0.8s;
       font-size: 30px; }
+
+footer {
+  background-color: #203748;
+  width: 100%; }
+  footer div div div p {
+    color: #fff;
+    padding: 15px;
+    font-size: 15px;
+    font-family: 'Patua One', cursive;
+    text-transform: uppercase; }
 
 /*# sourceMappingURL=main.css.map */
