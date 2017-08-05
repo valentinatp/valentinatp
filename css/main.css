@@ -249,12 +249,63 @@ body {
     transform: rotate(130deg); } }
 .tercera-seccion {
   background-color: #39d084;
-  height: 90vh;
+  height: 100vh;
   width: 100%; }
   .tercera-seccion div div div h2 {
     color: #fff;
     font-size: 70px;
     font-family: 'Patua One', cursive;
-    text-decoration: underline; }
+    text-decoration: underline;
+    text-transform: uppercase; }
+  .tercera-seccion div div h3 {
+    color: #fff;
+    text-decoration: underline;
+    font-family: 'Patua One', cursive; }
+  .tercera-seccion div div h4 {
+    color: #fff;
+    font-weight: 600;
+    font-family: 'Patua One', cursive; }
+  .tercera-seccion div div img {
+    margin-top: 10px; }
+
+.cuarta-seccion {
+  background-color: #203748;
+  height: 90vh;
+  width: 100%; }
+  .cuarta-seccion div div div h2 {
+    color: #fff;
+    margin: 0;
+    font-size: 50px;
+    padding: 10px 0;
+    text-decoration: underline;
+    text-transform: uppercase; }
+  .cuarta-seccion div div div img {
+    margin-top: 30px; }
+  .cuarta-seccion div div div h4 {
+    color: #fff;
+    text-transform: uppercase; }
+
+.quinta-seccion {
+  background-color: #39d084;
+  height: 50vh;
+  width: 100%; }
+  .quinta-seccion div div div h2 {
+    color: #fff;
+    margin: 0;
+    font-size: 50px;
+    padding: 10px 0;
+    text-decoration: underline;
+    text-transform: uppercase; }
+  .quinta-seccion div div div div div a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px; }
+    .quinta-seccion div div div div div a i {
+      font-size: 40px;
+      margin: 10px 0; }
+    .quinta-seccion div div div div div a:hover {
+      color: #203748;
+      transition: 0.8s;
+      font-size: 30px; }
 
 /*# sourceMappingURL=main.css.map */
