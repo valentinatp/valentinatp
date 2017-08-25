@@ -1,8 +1,8 @@
-@import url("https://fonts.googleapis.com/css?family=Oswald|Patua+One");
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville|Nixie+One");
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Oswald', sans-serif; }
+  font-family: 'Nixie One', cursive; }
 
 /*double row*/
 .navbar-default {
@@ -34,66 +34,59 @@ body {
 .navbar-doublerow .navbar-down ul > li > a {
   font-size: 16px;
   color: #fff;
-  transition: border-bottom .2s ease-in , transform .2s ease-in-out; }
+  transition: border-bottom .2s ease-in , transform .2s ease-in-out;
+  font-family: 'Libre Baskerville', serif; }
   .navbar-doublerow .navbar-down ul > li > a:hover {
     border-bottom: 1px solid #fff;
     color: #fff; }
 
-.navbar-doublerow .navbar-down .dropdown {
-  padding: 5px;
-  color: #fff; }
-  .navbar-doublerow .navbar-down .dropdown .navbar-doublerow .navbar-down .dropdown ul > li > a,
-  .navbar-doublerow .navbar-down .dropdown .navbar-doublerow .navbar-down .dropdown ul > li > a:hover {
+#sup {
+  background-color: black; }
+  #sup a i {
     color: #fff;
-    border-bottom: none; }
-
-#sup a i {
-  color: #fff;
-  font-size: 30px;
-  padding: 5px 7px; }
-#sup .menu {
-  height: 100%;
-  width: 0;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  overflow-x: hidden;
-  padding-top: 60px;
-  transition: 0.5s;
-  background-color: #fff; }
-  #sup .menu .closebtn {
-    position: absolute;
+    font-size: 30px;
+    padding: 5px 7px; }
+  #sup .menu {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
     top: 0;
-    right: 25px;
-    font-size: 36px;
-    margin-left: 50px;
-    color: #000; }
-  #sup .menu div div div .opciones {
-    padding: 5px 0;
-    font-size: 20px;
-    margin-left: 5px; }
-    #sup .menu div div div .opciones i {
-      margin: 0 20px;
-      font-size: 24px;
-      background-color: transparent;
-      color: #71fdff; }
-    #sup .menu div div div .opciones a {
-      color: rgba(9, 8, 8, 0.8);
-      font-weight: 600;
-      display: block;
-      transition: 0.3s;
-      font-size: 15px; }
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 60px;
+    transition: 0.5s;
+    background-color: #fff; }
+    #sup .menu .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+      color: #000; }
+    #sup .menu div div div .opciones {
+      padding: 5px 0;
+      font-size: 20px;
+      margin-left: 5px; }
+      #sup .menu div div div .opciones i {
+        margin: 0 20px;
+        font-size: 24px;
+        background-color: transparent;
+        color: #71fdff; }
+      #sup .menu div div div .opciones a {
+        color: rgba(9, 8, 8, 0.8);
+        font-weight: 600;
+        display: block;
+        transition: 0.3s;
+        font-size: 15px; }
 
 .primera-seccion {
-  background-image: url(../img/fondo.jpg);
-  height: 70vh;
+  background-image: url(../img/fondo-dos.jpg);
+  height: 90vh;
   width: 100%;
-  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
-  margin: 0;
-  background-attachment: fixed; }
+  margin: 0; }
   .primera-seccion div div div div div div {
     margin-top: 200px;
     margin-left: 70px; }
@@ -116,7 +109,7 @@ body {
         white-space: nowrap;
         top: 0;
         left: 0;
-        -webkit-animation: move 6s;
+        -webkit-animation: move 8s;
         -webkit-animation-iteration-count: infinite;
         -webkit-animation-delay: 1s; }
 @keyframes move {
@@ -128,6 +121,11 @@ body {
     top: -100px; }
   60% {
     top: -150px; } }
+  .primera-seccion div div div div div h1 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600; }
+
 #particles-js {
   width: 100%;
   height: 90vh;
@@ -144,10 +142,10 @@ body {
 
 .segunda-seccion {
   background-color: #203748;
-  height: 80vh;
+  height: 90vh;
   width: 100%; }
   .segunda-seccion div div div div div div img {
-    border-radius: 100px;
+    border-radius: 50%;
     border: 2px solid white;
     height: 350px;
     width: 250px;
@@ -162,91 +160,6 @@ body {
     color: #fff;
     margin-bottom: 20px; }
 
-.progress {
-  width: 150px;
-  height: 150px;
-  line-height: 150px;
-  background: none;
-  margin: 0 auto;
-  box-shadow: none;
-  position: relative; }
-
-.progress:after {
-  content: "";
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  border: 12px solid #fff;
-  position: absolute;
-  top: 0;
-  left: 0; }
-
-.progress > span {
-  width: 50%;
-  height: 100%;
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  z-index: 1; }
-
-.progress .progress-left {
-  left: 0; }
-
-.progress .progress-bar {
-  width: 100%;
-  height: 100%;
-  background: none;
-  border-width: 12px;
-  border-style: solid;
-  position: absolute;
-  top: 0; }
-
-.progress .progress-left .progress-bar {
-  left: 100%;
-  border-top-right-radius: 80px;
-  border-bottom-right-radius: 80px;
-  border-left: 0;
-  -webkit-transform-origin: center left;
-  transform-origin: center left; }
-
-.progress .progress-right {
-  right: 0; }
-
-.progress .progress-right .progress-bar {
-  left: -100%;
-  border-top-left-radius: 80px;
-  border-bottom-left-radius: 80px;
-  border-right: 0;
-  -webkit-transform-origin: center right;
-  transform-origin: center right;
-  animation: loading-1 1.8s linear forwards; }
-
-.progress .progress-value {
-  width: 90%;
-  height: 90%;
-  border-radius: 50%;
-  background: #44484b;
-  font-size: 24px;
-  color: #fff;
-  line-height: 135px;
-  text-align: center;
-  position: absolute;
-  top: 5%;
-  left: 5%; }
-
-.progress.blue .progress-bar {
-  border-color: #049dff; }
-
-.progress.blue .progress-left .progress-bar {
-  animation: loading-2 1.5s linear forwards 1.8s; }
-
-@keyframes loading-1 {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg); }
-  100% {
-    -webkit-transform: rotate(130deg);
-    transform: rotate(130deg); } }
 .tercera-seccion {
   background-color: #39d084;
   height: 100vh;
@@ -254,23 +167,23 @@ body {
   .tercera-seccion div div div h2 {
     color: #fff;
     font-size: 70px;
-    font-family: 'Patua One', cursive;
+    font-family: 'Libre Baskerville', serif;
     text-decoration: underline;
     text-transform: uppercase; }
   .tercera-seccion div div h3 {
     color: #fff;
     text-decoration: underline;
-    font-family: 'Patua One', cursive; }
+    font-family: 'Libre Baskerville', serif; }
   .tercera-seccion div div h4 {
     color: #fff;
     font-weight: 600;
-    font-family: 'Patua One', cursive; }
+    font-family: 'Libre Baskerville', serif; }
   .tercera-seccion div div img {
     margin-top: 10px; }
 
 .cuarta-seccion {
   background-color: #203748;
-  height: 90vh;
+  height: 110vh;
   width: 100%; }
   .cuarta-seccion div div div h2 {
     color: #fff;
@@ -283,7 +196,8 @@ body {
     margin-top: 30px; }
   .cuarta-seccion div div div h4 {
     color: #fff;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    font-weight: 600; }
 
 .quinta-seccion {
   background-color: #39d084;
@@ -316,7 +230,119 @@ footer {
     color: #fff;
     padding: 15px;
     font-size: 15px;
-    font-family: 'Patua One', cursive;
+    font-family: 'Libre Baskerville', serif;
     text-transform: uppercase; }
+
+@media (max-width: 650px) {
+  .primera-seccion {
+    background-image: url(../img/fondo-dos.jpg);
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0; }
+    .primera-seccion div div div div div div {
+      margin-top: 200px;
+      margin-left: 70px; }
+    .primera-seccion div div div div h1 {
+      color: #fff;
+      font-size: 40px;
+      font-weight: 600; }
+
+  .segunda-seccion {
+    background-color: #203748;
+    height: 90vh;
+    width: 100%; }
+    .segunda-seccion div div div div div div img {
+      border-radius: 50%;
+      border: 2px solid white;
+      height: 350px;
+      width: 250px;
+      margin-top: 20%;
+      margin-right: 20%; }
+    .segunda-seccion div div div div div div div h3 {
+      font-size: 40px;
+      color: #fff;
+      margin-top: 20%;
+      margin-bottom: 10px; }
+    .segunda-seccion div div div div div div div h4 {
+      color: #fff;
+      margin-bottom: 20px;
+      font-size: 15px; }
+
+  .tercera-seccion {
+    background-color: #39d084;
+    height: 110vh;
+    width: 100%; }
+    .tercera-seccion div div div h2 {
+      color: #fff;
+      font-size: 20px;
+      font-family: 'Libre Baskerville', serif;
+      text-decoration: underline;
+      text-transform: uppercase; }
+    .tercera-seccion div div h3 {
+      color: #fff;
+      text-decoration: underline;
+      font-family: 'Libre Baskerville', serif;
+      font-size: 10px; }
+    .tercera-seccion div div h4 {
+      color: #fff;
+      font-weight: 600;
+      font-family: 'Libre Baskerville', serif; }
+    .tercera-seccion div div img {
+      margin-top: 10px;
+      height: 50px;
+      width: 50px; }
+
+  .cuarta-seccion {
+    background-color: #203748;
+    height: 110vh;
+    width: 100%; }
+    .cuarta-seccion div div div h2 {
+      color: #fff;
+      margin: 0;
+      font-size: 40px;
+      padding: 10px 0;
+      text-decoration: underline;
+      text-transform: uppercase; }
+    .cuarta-seccion div div div img {
+      margin: 0 30px;
+      height: 100px;
+      width: 100px; }
+    .cuarta-seccion div div div h4 {
+      color: #fff;
+      text-transform: uppercase;
+      font-weight: 600;
+      font-size: 10px; }
+
+  .quinta-seccion {
+    background-color: #39d084;
+    height: 70vh;
+    width: 100%; }
+    .quinta-seccion div div div h2 {
+      color: #fff;
+      margin: 0;
+      font-size: 30px;
+      padding: 10px 0;
+      text-decoration: underline;
+      text-transform: uppercase;
+      margin-bottom: 10px; }
+    .quinta-seccion div div div div div a {
+      text-decoration: none;
+      color: #fff;
+      font-size: 15px; }
+      .quinta-seccion div div div div div a i {
+        font-size: 20px;
+        margin: 10px 0; }
+
+  footer {
+    background-color: #203748;
+    width: 100%; }
+    footer div div div p {
+      color: #fff;
+      padding: 15px;
+      font-size: 10px;
+      font-family: 'Libre Baskerville', serif;
+      text-transform: uppercase; } }
 
 /*# sourceMappingURL=main.css.map */
