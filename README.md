@@ -60,7 +60,7 @@
     </a> 
      &emsp;
     <a href="#" target="_blank"> 
-      <img src="./icons/React-Dark.svg" width="48">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="48">
     </a>
       &emsp;
   <a href="https://es.react.dev/" target="_blank">  
