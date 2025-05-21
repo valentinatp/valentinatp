@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Hard Skills
 
-## 👨‍💻 Hard Skills
+## 👨‍💻 Programming Languages
 <p  align="left">
     &emsp;
     <a href="#">
@@ -23,10 +23,7 @@
     <a href="#" target="_blank"> 
          <img alt="Jquery" src="./icons/JQuery.svg" width="48">
    </a>
-</p>
-## 👨‍💻 Programming Languages
-  <p align="left">
-    &emsp; 
+  &emsp; 
     <a href="#" target="_blank"> 
      <img src="./icons/MongoDB.svg" width="48">  
     </a>   
@@ -43,19 +40,5 @@
       <img src="./icons/NodeJS-Dark.svg" width="48"> 
   </a>
   &emsp;
- </p>
+</p>
 
-<!--
-**valentinatp/valentinatp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
