@@ -12,7 +12,7 @@
 <p  align="left">
     &emsp;
     <a href="#">
-         <img alt="Javascript" src="./icons/Javascript.svg" width="48">    
+         <img alt="Javascript" src="./icons/JavaScript.svg" width="48">    
     </a>
     &emsp;
     <a href="#" target="_blank"> 
