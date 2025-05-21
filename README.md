@@ -1,6 +1,6 @@
 <h1>Hola, bienvenido/a a mi Github! <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> .</h1>
 <p>
-  ¡Bienvenido/a a mi portafolio! Aquí encontrarás una muestra de mi pasión por el desarrollo web, la creatividad y la tecnología. Explora mis proyectos, conoce mi enfoque innovador y descubre cómo juntos podemos crear soluciones impactantes. ¡Espero que disfrutes tu visita! 🚀💡  
+  Aquí encontrarás una muestra de mi pasión por el desarrollo web, la creatividad y la tecnología. Explora mis proyectos, conoce mi enfoque innovador y descubre cómo juntos podemos crear soluciones impactantes. ¡Espero que disfrutes tu visita! 🚀💡  
 </p>
 
 <p align="center">
