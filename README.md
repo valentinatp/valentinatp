@@ -51,31 +51,21 @@
 ## Stack MERN
   <p align="left">
     &emsp; 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+    <a href="#" target="_blank"> 
+     <img src="./icons/MongoDB.svg" width="48">  
     </a>   
     &emsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <a href="#" target="_blank">
+      <img src="./icons/ExpressJS-Dark.svg" width="48">    
     </a> 
      &emsp;
-    <a href="https://getbootstrap.com" target="_blank"> 
-      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <a href="#" target="_blank"> 
+      <img src="./icons/React-Dark.svg" width="48">
     </a>
       &emsp;
   <a href="https://es.react.dev/" target="_blank">  
-      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+      <img src="./icons/NodeJS-Dark.svg" width="48"> 
   </a>
-      &emsp;
-  <a href="https://nodejs.org/es" target="_blank">  
-      <img alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"/>
-  </a>  
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.oracle.com/database/sqldeveloper/"><img alt="OracleSql" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
   &emsp;
  </p>
 
