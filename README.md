@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=magenta&size=25&center=true&vCenter=true&width=600&height=100&lines=Valentina+Alejandra+Toledo..&hearts;++;Front-End+Developer;Analista+programadora,;STGO+Chile,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-## 👨‍💻 Programming Languages
+## :computer: Programming Languages
 <p  align="left">
     &emsp;
     <a href="#">
