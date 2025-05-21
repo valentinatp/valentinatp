@@ -23,7 +23,7 @@
          <img alt="Jquery" src="./icons/JQuery.svg" width="48">
    </a>
 </p>
-## 👨‍💻 Stack MERN
+## 👨‍💻 Programming Languages
   <p align="left">
     &emsp; 
     <a href="#" target="_blank"> 
