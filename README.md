@@ -1,5 +1,8 @@
-<h1>Hola, bienvenido/a a mi Github! <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> .</h1>
+<h1>Hello everyone, welcome to my GitHub! <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> .</h1>
 <p>
+  Welcome to my portfolio! Here, you'll find a showcase of my passion for web development, creativity, and technology. Explore my projects, discover my innovative approach,    and see how we can create impactful solutions together. I hope you enjoy your visit! 🚀💡 
+</p>
+<p style="font-size:10px">
   Aquí encontrarás una muestra de mi pasión por el desarrollo web, la creatividad y la tecnología. Explora mis proyectos, conoce mi enfoque innovador y descubre cómo juntos podemos crear soluciones impactantes. ¡Espero que disfrutes tu visita! 🚀💡  
 </p>
 
