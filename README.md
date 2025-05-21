@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=magent&size=25&center=true&vCenter=true&width=600&height=100&lines=Valentina+Alejandra+Toledo..&hearts;++;Front-End+Developer;Analista+programadora,;STGO+Chile,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmMzOGRucjg2OTFldWJrMXRwbDhwdGJuZnRhdHlpNWsxN2N5d2l3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/53mL551FYqsSfBPC72/giphy.gif" width="100" /> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFsbXZ6cXVkbm1sZ2R3aGtwa25yMjd2cDhxcGVraTIzcTBtaHN2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 
 ## 👨‍💻 Programming Languages
 
@@ -21,7 +20,7 @@
         <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
     </a>
     
-##Frontend Development
+##Design Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -37,7 +36,7 @@
   </a>
     &emsp;
 <a href="https://es.react.dev/" target="_blank">  
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+    <img alt="Flexbox" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
 </a>
     &emsp;
 <a href="https://nodejs.org/es" target="_blank">  
@@ -47,7 +46,27 @@
 </p>
 
 ## Stack MERN
-<p align="left">
+  <p align="left">
+    &emsp; 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+    </a>   
+    &emsp;
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    </a> 
+     &emsp;
+    <a href="https://getbootstrap.com" target="_blank"> 
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    </a>
+      &emsp;
+  <a href="https://es.react.dev/" target="_blank">  
+      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+  </a>
+      &emsp;
+  <a href="https://nodejs.org/es" target="_blank">  
+      <img alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"/>
+  </a>  
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
