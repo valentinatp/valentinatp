@@ -4,6 +4,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=magenta&size=25&center=true&vCenter=true&width=600&height=100&lines=Valentina+Alejandra+Toledo..&hearts;++;Front-End+Developer;Analista+programadora,;STGO+Chile,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
+<p>
+  ¡Bienvenido a mi portafolio! Aquí encontrarás una muestra de mi pasión por el desarrollo web, la creatividad y la tecnología. Explora mis proyectos, conoce mi enfoque innovador y descubre cómo juntos podemos crear soluciones impactantes. ¡Espero que disfrutes tu visita! 🚀💡  
+Si quieres que le demos un toque más personalizado, dime qué estilo prefieres. 😊  
+</p>
 ## 👨‍💻 Programming Languages
 
 <p  align="left">
