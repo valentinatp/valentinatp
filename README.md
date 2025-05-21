@@ -11,17 +11,17 @@
 
 <p  align="left">
     &emsp;
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava">
-        <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+    <a href="#">
+         <img alt="Javascript" src="./icons/Javascript.svg" width="48">    
     </a>
     &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <a href="#" target="_blank"> 
+         <img alt="Python" src="./icons/Python-Dark.svg" width="48">
    </a>
     &emsp;
-    <a href="https://www.python.org" target="_blank">
-        <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-    </a>
+    <a href="#" target="_blank"> 
+         <img alt="Jquery" src="./icons/JQuery.svg" width="48">
+   </a>
     
 ##Design Development
 <p align="left"> 
